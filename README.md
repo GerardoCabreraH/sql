@@ -77,4 +77,4 @@ Resultados
 
 Resultados
 
-![postgresql-commands](img/postgresql-commands.gif)
+![LaunchX](img/LaunchX.gif)
